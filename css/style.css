@@ -5,3 +5,155 @@
 .list{
     list-style: none;
 }
+/*-----HEADER-----*/
+.logo{
+    font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1.19;
+        letter-spacing: 0.03em;
+    
+        color: #2196F3;
+}
+.menu-link{
+    font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 1.14;
+        letter-spacing: 0.02em;
+    
+        color: #212121;
+}
+.menu-link:hover,
+.menu-link:focus{
+    color: #2196F3;
+}
+.email-adress{
+    font-family: 'Roboto', sans-serif; 
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 1.14;
+        letter-spacing: 0.02em;
+        color: #757575;
+}
+.email-adress:hover,
+.email-adress:focus{
+    color: #2196F3;
+}
+.phone-number{
+    font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 1.14;
+        letter-spacing: 0.02em;
+    
+        color: #757575;
+}
+.phone-number:hover,
+.phone-number:focus{
+    color: #2196F3;
+}
+/*-----/HEADER-----*/
+/*------HERO-----*/
+.main-title{
+    font-family: 'Roboto', sans-serif;
+        font-weight: 900;
+        font-size: 44px;
+        line-height: 1.36;
+    
+        text-align: center;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+    
+        /*color: #FFFFFF;*/
+}
+.modl-btn{
+    font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 1.88;
+    
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.06em;
+        color: #FFFFFF;
+
+        background: #2196F3;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+        border-radius: 4px;
+
+    cursor: pointer;
+}
+.modl-btn:hover,
+.modl-btn:focus{
+    background-color: #2F303A;;
+}
+/*-----/HERO-----*/
+/*-----OUR ADVANTAGES*/
+.our-suptitle{
+    font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 1.14;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+    
+        color: #212121;
+}
+.our-list-text{
+    font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 1.71;
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+}
+/*-----/OUR ADVANTAGES-----*/
+/*-----ABOUT-----*/
+.about-title{
+    font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.16;
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #212121;
+}
+/*-----/ABOUT-----*/
+/*-----OUR TEAM-----*/
+.title-team{
+    font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.16;
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #212121;
+}
+.title-name{
+    font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.19;
+    
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #212121;
+}
+.team-position{
+    font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.19;
+    
+        text-align: center;
+        letter-spacing: 0.03em;
+    
+        color: #757575;
+}
+/*-----/OUR TEAM-----*/
